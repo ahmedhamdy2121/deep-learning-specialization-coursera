@@ -22,7 +22,7 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
 
 
 ## Courses
-### [Course 1: Neural Networks and Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization/tree/master/01-Neural-Networks-and-Deep-Learning)
+### [Course 1: Neural Networks and Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning)
   
   - [Week 1 - Introduction to deep learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week1)
     - **Learning Objectives**
