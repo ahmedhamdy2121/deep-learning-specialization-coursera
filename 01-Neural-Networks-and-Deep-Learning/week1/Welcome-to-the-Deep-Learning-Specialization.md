@@ -1,5 +1,9 @@
 # Welcome to the Deep Learning Specialization
 
+### Table of Contents
+- [Welcome](#welcome)
+
+<a name="welcome"></a>
 ## Welcome
 ![](images/video1/Slide2.JPG)
 ![](images/video1/Slide3.JPG)
