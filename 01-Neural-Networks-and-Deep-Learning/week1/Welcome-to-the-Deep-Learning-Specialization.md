@@ -8,7 +8,7 @@
 
 ## What is a neural network?
 ![](images/video2/Slide2.JPG)
-![]"(images/video2/Slide3.JPG)
+![](images/video2/Slide3.JPG)
 ![](images/video2/Slide4.JPG)
 
 ## Supervised Learning with Neural Network
