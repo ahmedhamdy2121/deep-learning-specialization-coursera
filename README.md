@@ -30,8 +30,8 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Be able to explain how deep learning is applied to supervised learning.
       - Understand what are the major categories of models (such as CNNs and RNNs), and when they should be applied.
       - Be able to recognize the basics of when deep learning will (or will not) work well.
-    - [Notes 1 - Welcome to the Deep Learning Specialization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week1/Welcome-to-the-Deep-Learning-Specialization.html)
-    - [Notes 2 - Frequently Asked Questions](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week1/Frequently-Asked-Questions_Coursera.html)
+    - [Notes 1 - Welcome to the Deep Learning Specialization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week1/Welcome-to-the-Deep-Learning-Specialization.md)
+    - [Notes 2 - Frequently Asked Questions](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week1/Frequently-Asked-Questions_Coursera.md)
     - [Supplemental](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week1/notes)
   
   - [Week 2 - Neural Networks Basics](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week2)
