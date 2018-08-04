@@ -1,12 +1,6 @@
 # Welcome to the Deep Learning Specialization
 
-### Table of Contents
-- [Welcome](#welcome)
-- [Introduction to Deep Learning](#intro)
-	- [What is a neural network?](#whatis)
-	- [Supervised Learning with Neural Network](#super)
-	- [Why is Deep Learning taking off?](#deep)
-	- [About the Course](#about)
+
 
 
 <a name="welcome" />
