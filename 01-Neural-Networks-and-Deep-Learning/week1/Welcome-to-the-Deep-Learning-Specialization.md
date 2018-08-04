@@ -8,7 +8,8 @@
 	- [Why is Deep Learning taking off?](#deep)
 	- [About the Course](#about)
 
-<a name="welcome"/>
+
+<a name="welcome" />
 ## Welcome
 ![](images/video1/Slide2.JPG)
 ![](images/video1/Slide3.JPG)
