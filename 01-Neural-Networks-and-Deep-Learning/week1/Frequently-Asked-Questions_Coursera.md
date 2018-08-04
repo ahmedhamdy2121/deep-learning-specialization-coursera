@@ -32,9 +32,9 @@ Familiarity with the basic linear algebra (matrix multiplications, vector operat
 **Q: What is the correct technique of entering a 1 element matrix?** A: They should be entered as just the element without brackets.
 
 **Q: What does a A being a 3 element vector or a 3 dimensional vector mean?** A: If not described a vector as mentioned in the 
-		[element1]	
-questions is A =[element2]
-		[element3]
+		 |element1|	
+questions is A = |element2|
+		 |element3|
 
 **Q: I think I found an error in a video. What should I do?** A: First, post it on the Errata forum. We will try to implement your feedback as soon as possible. You could also send us an email at feedback@deeplearning.ai.
 
