@@ -69,7 +69,7 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
     
 ### [Course 2: Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks)
 
-  - [Week 1 - Practical aspects of Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week1)
+  - [Week 5 - Practical aspects of Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week5)
     - **Learning Objectives**
       - Recall that different types of initializations lead to different results
       - Recognize the importance of initialization in complex neural networks.
@@ -78,19 +78,25 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Learn when and how to use regularization methods such as dropout or L2 regularization.
       - Understand experimental issues in deep learning such as Vanishing or Exploding gradients and learn how to deal with them
       - Use gradient checking to verify the correctness of your back-propagation implementation
-    - [Notes](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Practical-aspects-of-Deep-Learning.ipynb)
+    - [Notes - Practical aspects of Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week5/Practical-aspects-of-Deep-Learning.ipynb)
 
-  - [Week 2 - Optimization algorithms](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week2)
+  - [Week 6 - Optimization algorithms](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week6)
     - **Learning Objectives**
       - Remember different optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
       - Use random mini-batches to accelerate the convergence and improve the optimization
       - Know the benefits of learning rate decay and apply it to your optimization
-    - [Notes](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week2/optimization-algoritihms.ipynb)
+    - [Notes - Optimization algorithms](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week6/optimization-algoritihms.ipynb)
+
+   - [Week 7 - Hyper-parameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week7)
+    - **Learning Objectives**
+      - Master the process of hyper-parameter tuning
+      - Learning Batch Norm
+      - Learn about multi-class classifier
+      - Train how to use tensorflow
+    - [Notes - Hyper-parameter tuning and programming frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week7/hyperparameter-tuning-and-programming-frameworks.ipynb)
 
 
 ## TODO:
-  - Add week 3 in course 2
-  - Add Supplemental for 01 (week 2, 3, 4), 02 (week 1, 2, 3)
   - Start adding from course 3
 
 
