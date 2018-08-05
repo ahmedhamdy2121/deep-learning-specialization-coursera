@@ -87,7 +87,7 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Know the benefits of learning rate decay and apply it to your optimization
     - [Notes - Optimization algorithms](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week6/optimization-algoritihms.ipynb)
 
-   - [Week 7 - Hyper-parameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week7)
+  - [Week 7 - Hyper-parameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week7)
     - **Learning Objectives**
     	- Master the process of hyper-parameter tuning
       - Learning Batch Norm
