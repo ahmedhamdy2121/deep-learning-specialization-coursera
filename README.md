@@ -4,7 +4,7 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-This repo contains all the lecture notes and supplemental notes for this specialization. I won't update it with my solutions because that will be ethically wrong!
+This repo contains all the lecture notes and supplemental notes for this specialization. I won't update it with my solutions because that will be ethically wrong! I am using it as a reminder for me in case I forgot something, so instead of go through the whole videos again, I will just check it first here ;)
 
 ## Programming Assignments
 You can solve the assignments yourself even if you are just Auditing, sometime notebook won't open, so these are quick links for open-able notebook, then you shall choose **"File > Open"** and you will find all the weeks' materials, programming assignments, and datasets.
@@ -44,7 +44,7 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Be able to implement vectorization across multiple training examples
     - [Notes 1 - Logistic Regression as a Neural Network](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week2/01-Logistic-Regression-as-a-Neural-Network.ipynb)
     - [Notes 2 - Vectorization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week2/02-vectorization.ipynb)
-    - [Supplemental Notes](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week2/supplemental)  
+    - [Notes 3 - Standard Notation](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week2/standard-notation.pdf)
 
   - [Week 3 - Shallow Neural Networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week3)
     - **Learning Objectives**
@@ -69,7 +69,7 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
     
 ### [Course 2: Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks)
 
-  - [Week 5 - Practical aspects of Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week5)
+  - [Week 1 - Practical aspects of Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week5)
     - **Learning Objectives**
       - Recall that different types of initializations lead to different results
       - Recognize the importance of initialization in complex neural networks.
@@ -80,14 +80,14 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Use gradient checking to verify the correctness of your back-propagation implementation
     - [Notes - Practical aspects of Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week5/Practical-aspects-of-Deep-Learning.ipynb)
 
-  - [Week 6 - Optimization algorithms](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week6)
+  - [Week 2 - Optimization algorithms](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week6)
     - **Learning Objectives**
       - Remember different optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
       - Use random mini-batches to accelerate the convergence and improve the optimization
       - Know the benefits of learning rate decay and apply it to your optimization
     - [Notes - Optimization algorithms](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week6/optimization-algoritihms.ipynb)
 
-  - [Week 7 - Hyper-parameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week7)
+  - [Week 3 - Hyper-parameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week7)
     - **Learning Objectives**
     	- Master the process of hyper-parameter tuning
       - Learning Batch Norm
@@ -96,8 +96,26 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
     - [Notes - Hyper-parameter tuning and programming frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week7/hyperparameter-tuning-and-programming-frameworks.ipynb)
 
 
-## TODO:
-  - Start adding from course 3
+### [Course 3: Structuring Machine Learning Projects](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects)
+
+  - [Week 1 - ML Strategy (1)](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects/week8)
+    - **Learning Objectives**
+      - Understand why Machine Learning strategy is important
+      - Apply satisficing and optimizing metrics to set up your goal for ML projects
+      - Get to know single number evaluation metrics and how to deal with N metrics
+      - Choose a correct train/dev/test split of your dataset
+      - Understand how to define human-level performance
+      - Use human-level perform to define your key priorities in ML projects
+      - Take the correct ML Strategic decision based on observations of performances and dataset
+    - [Notes - Introduction to ML Strategy](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/03-Structuring-Machine-Learning-Projects/week8/introduction-to-ML-strategy.md)
+
+  - [Week 2 - ML Strategy (2)](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects/week9)
+    - **Learning Objectives**
+      - Understand what multi-task learning and transfer learning are
+      - Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+    - [Notes - Error Analysis](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects/week9/error-analysis.md)
+
+Good luck :)
 
 
 
