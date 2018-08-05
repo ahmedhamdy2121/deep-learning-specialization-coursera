@@ -89,7 +89,7 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
 
    - [Week 7 - Hyper-parameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week7)
     - **Learning Objectives**
-      - Master the process of hyper-parameter tuning
+    	- Master the process of hyper-parameter tuning
       - Learning Batch Norm
       - Learn about multi-class classifier
       - Train how to use tensorflow
