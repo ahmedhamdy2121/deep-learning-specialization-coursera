@@ -4,7 +4,7 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-This repo contains all the lecture notes and supplemental notes for this specialization. I won't update it with the my solutions because that will be ethically wrong!
+This repo contains all the lecture notes and supplemental notes for this specialization. I won't update it with my solutions because that will be ethically wrong!
 
 ## Programming Assignments
 You can solve the assignments yourself even if you are just Auditing, sometime notebook won't open, so these are quick links for open-able notebook, then you shall choose **"File > Open"** and you will find all the weeks' materials, programming assignments, and datasets.
@@ -32,7 +32,6 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Be able to recognize the basics of when deep learning will (or will not) work well.
     - [Notes 1 - Welcome to the Deep Learning Specialization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week1/Welcome-to-the-Deep-Learning-Specialization.md)
     - [Notes 2 - Frequently Asked Questions](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week1/Frequently-Asked-Questions_Coursera.md)
-    - [Supplemental](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week1/notes)
   
   - [Week 2 - Neural Networks Basics](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week2)
     - **Learning Objectives**
@@ -45,7 +44,7 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Be able to implement vectorization across multiple training examples
     - [Notes 1 - Logistic Regression as a Neural Network](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week2/01-Logistic-Regression-as-a-Neural-Network.ipynb)
     - [Notes 2 - Vectorization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week2/02-vectorization.ipynb)
-    - [Supplemental](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week2/notes)  
+    - [Supplemental Notes](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week2/supplemental)  
 
   - [Week 3 - Shallow Neural Networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week3)
     - **Learning Objectives**
@@ -56,7 +55,6 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Become fluent with Deep Learning notations and Neural Network Representations
       - Build and train a neural network with one hidden layer.
     - [Notes - Shallow neural networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week3/shallow-neural-network.ipynb)
-    - [Supplemental](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week3/notes)
       
   - [Week 4 - Deep Neural Networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week4)
     - **Learning Objectives**
@@ -67,7 +65,6 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Understand how to use a cache to pass information from forward propagation to back propagation.
       - Understand the role of hyper-parameters in deep learning
     - [Notes - Deep neural networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week4/deep-neural-networks.ipynb)
-    - [Supplemental](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week4/notes)
     
     
 ### [Course 2: Improving Deep Neural Networks: Hyper-parameter tuning, Regularization and Optimization](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks)
