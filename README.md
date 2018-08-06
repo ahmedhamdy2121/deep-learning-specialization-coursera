@@ -4,7 +4,7 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-This repo contains all the lecture notes and supplemental notes for this specialization. I won't update it with my solutions because that will be ethically wrong! I am using it as a reminder for me in case I forgot something, so instead of go through the whole videos again, I will just check it first here ;)
+This repo contains all the lecture notes and supplemental notes for this specialization. ***I won't update it with my solutions because that will be ethically wrong!*** I am using it as a reminder for me in case I forgot something, so instead of go through the whole videos again, I will just check it first here ;)
 
 ## Programming Assignments
 You can solve the assignments yourself even if you are just Auditing, sometime notebook won't open, so these are quick links for open-able notebook, then you shall choose **"File > Open"** and you will find all the weeks' materials, programming assignments, and datasets.
