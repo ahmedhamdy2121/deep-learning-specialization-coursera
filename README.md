@@ -112,8 +112,14 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
   - [Week 2 - ML Strategy (2)](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects/week9)
     - **Learning Objectives**
       - Understand what multi-task learning and transfer learning are
+      - Manual help might be needed to assist in figuring out next steps
+      - Building up your system quickly then iterate
       - Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+      - Get to know when to use Transfer Learning and Multi-task learning
+      - Introduction to End-to-end deep learning
     - [Notes - Error Analysis](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects/week9/error-analysis.md)
+    - [Notes - End-to-end Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects/week9/What_is_end_to_end_deep_learning.pdf)
+
 
 Good luck :)
 
