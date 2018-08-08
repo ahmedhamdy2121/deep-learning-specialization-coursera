@@ -121,6 +121,17 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
     - [Notes - End-to-end Deep Learning](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/03-Structuring-Machine-Learning-Projects/week9/What_is_end_to_end_deep_learning.pdf)
 
 
+### [Course 4: Convolutional Neural Networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/04-Convolutional-Neural-Networks)
+
+  - [Week 1 - Foundations of Convolutional Neural Networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/04-Convolutional-Neural-Networks/week10)
+    - **Learning Objectives**
+      - Understand the convolution operation
+      - Understand the pooling operation
+      - Remember the vocabulary used in convolutional neural network (padding, stride, filter, ...)
+      - Build a convolutional neural network for image multi-class classification
+    - [Notes - Convolutional Neural Networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/04-Convolutional-Neural-Networks/week10/Convolutional-Neural-Networks.md)
+
+
 Good luck :)
 
 
