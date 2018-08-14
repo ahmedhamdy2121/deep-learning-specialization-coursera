@@ -10,6 +10,7 @@ This repo contains all the lecture notes and supplemental notes for this special
 You can solve the assignments yourself even if you are just Auditing, sometime notebook won't open, so these are quick links for open-able notebook, then you shall choose **"File > Open"** and you will find all the weeks' materials, programming assignments, and datasets.
 - [Open Python Notebook (Course 1)](https://www.coursera.org/learn/neural-networks-deep-learning/notebook/Zh0CU/python-basics-with-numpy-optional)
 - [Open Python Notebook (Course 2)](https://www.coursera.org/learn/deep-neural-network/notebook/UAwhh/regularization)
+- [Open Python Notebook (Course 4)](https://www.coursera.org/learn/convolutional-neural-networks/notebook/7XDi8/convolutional-model-step-by-step)
 
 
 ## Goals
@@ -130,6 +131,16 @@ You can solve the assignments yourself even if you are just Auditing, sometime n
       - Remember the vocabulary used in convolutional neural network (padding, stride, filter, ...)
       - Build a convolutional neural network for image multi-class classification
     - [Notes - Convolutional Neural Networks](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/04-Convolutional-Neural-Networks/week10/Convolutional-Neural-Networks.md)
+
+  - [Week 2 - Deep convolutional models: case studies](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/tree/master/04-Convolutional-Neural-Networks/week11)
+    - **Learning Objectives**
+      - Understand multiple foundational papers of convolutional neural networks
+      - Analyze the dimensionality reduction of a volume in a very deep network
+      - Understand and Implement a Residual network
+      - Build a deep neural network using Keras
+      - Implement a skip-connection in your network
+      - Clone a repository from github and use transfer learning
+    - [Notes - Practical advices for using ConvNets](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/04-Convolutional-Neural-Networks/week11/Practical-advices-for-using-ConvNets.md)
 
 
 Good luck :)
