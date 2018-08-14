@@ -59,7 +59,7 @@
 <a name="practice"></a>
 # Practical advices for using ConvNets
 
-<a name="why"></a>
+<a name="using"></a>
 ## Using Open-Source Implementation
 Just a tutorial of how to clone an open-source code from Github, also he mentioned it is better to start with some open-source codes instead of building the  network from scratch.
 
